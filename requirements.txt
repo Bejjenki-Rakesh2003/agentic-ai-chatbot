@@ -1,0 +1,13 @@
+streamlit==1.64.0
+langchain==0.3.27
+langchain-community==0.3.30
+langchain-text-splitters==0.3.11
+langchain-groq==0.3.8
+langgraph==0.6.7
+pinecone==7.3.0
+langchain-pinecone==0.2.12
+sentence-transformers==5.1.2
+pypdf==6.1.0
+python-dotenv==1.1.1
+pydantic==2.11.9
+protobuf>=5.26.1,<7
